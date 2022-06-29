@@ -1,0 +1,17 @@
+TestBot\DbConnection.class
+TelegramService.class
+TestBot\CityWeather$Clouds.class
+TestBot\Bot.class
+TestBot\CityWeather$Weather.class
+TestBot\CityWeather$Wind.class
+WeatherApi.class
+TestBot\CityWeather$Coord.class
+TestBot\CityWeather$Main.class
+TestBot\CityWeather.class
+TestBot\Bot$3.class
+TestBot\CityWeather$Sys.class
+TestBot\Bot$1.class
+TestBot\User.class
+TelegramServiceImpl.class
+TestBot\Bot$2.class
+TestBot\Main.class
